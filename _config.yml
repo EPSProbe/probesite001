@@ -93,16 +93,17 @@ analytics:
 
 
 # Site Author
-author:
-  name             : ""
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
-  email            :
-  links:
-    - label: ""
-      icon: "fas fa-fw fa-envelope-square"
-      # url: ""
+#PVB: Removed the following section...
+#author:
+#  name             : ""
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : ""
+#  location         : ""
+#  email            :
+#  links:
+#    - label: ""
+#      icon: "fas fa-fw fa-envelope-square"
+#      # url: ""
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
